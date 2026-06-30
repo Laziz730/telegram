@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Web",
+  "description": "1-to-1 exact clone of Telegram Web client with live Gemini AI bot, rich chats, folders, calls, dark mode, and PWA HomeScreen install experience.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
